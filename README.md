@@ -9,4 +9,4 @@ This project spearheaded the revival of AtliQ Grand's Luxury/Business Hotel sect
 
 Translating Complex Data into Actionable Insights, I developed Interactive Power BI Dashboards, empowering Stakeholders with Decision-Making Tools. The Project refined Skills in Data Analysis, Visualization, and Stakeholder Communication, showcasing my ability to drive Impactful Outcomes through Data-Driven Insights for AtliQ Grands.
 
-## Report Preview
+
